@@ -63,6 +63,7 @@ These mods alter core gameplay elements.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc)
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
+- [Idō](https://www.curseforge.com/minecraft/mc-mods/ido)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
