@@ -44,6 +44,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Chinese Workshop](https://www.curseforge.com/minecraft/mc-mods/chineseworkshop)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [Decocraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) ([PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib))
 - [Dirt Deco](https://www.curseforge.com/minecraft/mc-mods/dirt-deco)
 - [Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
