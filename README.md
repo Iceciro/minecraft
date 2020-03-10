@@ -71,6 +71,7 @@ These mods alter core gameplay elements.
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
+- [Torch Slabs](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Immersion
