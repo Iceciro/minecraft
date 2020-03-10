@@ -156,6 +156,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams) ([Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek))
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+  - [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold)
 
 ### User Interface
 These mods alter the User Interface.
