@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:2
-renderClouds:fast
+renderClouds:false
 resourcePacks:["JSTR_Modded_Universal.zip","SoSly.zip"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -116,14 +116,14 @@ key_chineseworkshop.keybind.select:56
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
 key_roots.keybinds.spell_slot_previous:0
+key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_3:0
 key_roots.keybinds.spell_slot_5:0
 key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_4:0
-key_roots.keybinds.spell_slot_next:0
 key_cos.key.opencosarmorinventory:0
-key_AutoRun:69
+key_AutoRun:45
 key_key.tg.open_gui:19
 key_key.tg.armor_ability:0
 key_key.tg.lense_gui:33
@@ -145,6 +145,7 @@ key_key.jei.toggleBookmarkOverlay:0
 key_nei.options.keys.gui.botania_corporea_request:0
 key_tombstone.message.knowledge_of_death:0
 key_key.carry.desc:42
+key_Reputation GUI:62
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_keys.howlingmoon.menu:37
 key_keys.howlingmoon.transform:36

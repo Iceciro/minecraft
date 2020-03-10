@@ -1,6 +1,10 @@
+<style type=text/css>
+hr + ul { list-style: none; padding-left: 0; }
+</style>
 # SoSly Minecraft Modpack
-**Version:** 3.0.0<br />
-**Seed:** 6917766840659095847
+___
+- **Version:** 3.0.0
+- **Seed:** 6917766840659095847
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -32,6 +36,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 These mods add new dungeons and worlds to explore.
 
 - [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures)
+- [Chocolate Quest Repoured](https://www.curseforge.com/minecraft/mc-mods/cqrepoured)
 - [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
