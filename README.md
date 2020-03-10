@@ -78,6 +78,7 @@ These mods alter core gameplay elements.
 ### Immersion
 These mods provide a more immersive experience in the minecraft world.
 
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) ([OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib))
 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
