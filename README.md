@@ -82,6 +82,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Malisis Doors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) ([Malisis Core](https://www.curseforge.com/minecraft/mc-mods/malisiscore))
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
   - [Pam's Bonecraft](https://www.curseforge.com/minecraft/mc-mods/pams-bonecraft)
