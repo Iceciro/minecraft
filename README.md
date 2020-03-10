@@ -62,6 +62,7 @@ These mods alter core gameplay elements.
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn)
 - [Dude! Where's my horse?](https://www.curseforge.com/minecraft/mc-mods/dude-wheres-my-horse)
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy) ([Minerva](https://www.curseforge.com/minecraft/mc-mods/minerva-library))
 - [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc)
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
 - [Idō](https://www.curseforge.com/minecraft/mc-mods/ido)
