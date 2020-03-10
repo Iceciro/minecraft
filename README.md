@@ -85,6 +85,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
   - [Pam's Bonecraft](https://www.curseforge.com/minecraft/mc-mods/pams-bonecraft)
+  - [Pam's Brewcraft](https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft)
   - [Pam's Desertcraft](https://www.curseforge.com/minecraft/mc-mods/pams-desertcraft)
 - [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
   - [Rustic BOP Woods](https://www.curseforge.com/minecraft/mc-mods/rustic-bop-woods)
