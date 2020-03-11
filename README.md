@@ -96,9 +96,12 @@ These mods provide a more immersive experience in the minecraft world.
   - [Rustic BOP Woods](https://www.curseforge.com/minecraft/mc-mods/rustic-bop-woods)
   - [Rustic Thaumaturgy](https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
-- [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
-- [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) ([CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil))
+  - [Spartan and Fire](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
+  - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals)
+  - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
+  - [Spartan Weaponry Arcana](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana)
+  - [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) ([CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil))
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
