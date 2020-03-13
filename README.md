@@ -139,6 +139,7 @@ These mods add new neutral or enemy mobs.
 - [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/jugst-a-few-fish)
 - [Not Enough Pets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [ToroQuest](https://www.curseforge.com/minecraft/mc-mods/toroquest)
