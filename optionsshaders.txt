@@ -1,6 +1,6 @@
-#Thu Oct 24 21:40:22 PDT 2019
-shaderPack=Builder's Modded Shaders V2.4.0.zip
-antialiasingLevel=0
+#Fri Mar 13 04:44:45 PDT 2020
+shaderPack=SEUS-Renewed-v1.0.1.zip
+antialiasingLevel=2
 normalMapEnabled=true
 specularMapEnabled=true
 renderResMul=1.0
