@@ -136,6 +136,7 @@ These mods add new neutral or enemy mobs.
 
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 - [Bear With Me](https://www.curseforge.com/minecraft/mc-mods/bear-with-me)
+- [Eerie Entities](https://www.curseforge.com/minecraft/mc-mods/eerie-entities)
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ([LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary))
   - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons)
