@@ -55,7 +55,6 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements.
 
-- [AnimalNet](https://www.curseforge.com/minecraft/mc-mods/animalnet)
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Bubble Column Elevator Backport](https://www.curseforge.com/minecraft/mc-mods/bubble-column-elevator-backport)
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
