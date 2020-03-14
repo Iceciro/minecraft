@@ -46,6 +46,18 @@
   ],
   "custom entries": {
     "__comment": "You can define additional items to be sold by the Market here. Defaults can be overridden. Prefix with ! to blacklist instead.",
-    "animania:entity_egg_ferret_white": "1*minecraft:emerald:0"
+    "animania:entity_egg_ferret_white": "1*minecraft:emerald:0",
+    "animania:entity_egg_mare_draft": "1*minecraft:emerald:0",
+    "animania:entity_egg_stallion_draft": "1*minecraft:emerald:0",
+    "animania:entity_egg_foal_draft": "1*minecraft:emerald:0",
+    "animania:entity_egg_ferret_grey": "1*minecraft:emerald:0",
+    "animania:entity_egg_hedgehog": "1*minecraft:emerald:0",
+    "animania:entity_egg_hedgehog_albino": "1*minecraft:emerald:0",
+    "animania:entity_egg_cow_random": "1*minecraft:emerald:0",
+    "animania:entity_egg_pig_random": "1*minecraft:emerald:0",
+    "animania:entity_egg_chicken_random": "1*minecraft:emerald:0",
+    "animania:entity_egg_dart_frog": "1*minecraft:emerald:0",
+    "animania:entity_egg_sheep_random": "1*minecraft:emerald:0",
+    "animania:entity_egg_rabbit_random": "1*minecraft:emerald:0"
   }
 }
