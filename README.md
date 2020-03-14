@@ -137,6 +137,7 @@ These mods add new neutral or enemy mobs.
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ([LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary))
   - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons)
 - [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/jugst-a-few-fish)
+- [Minecolonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 - [Not Enough Pets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
