@@ -38,6 +38,7 @@ These mods add new dungeons and worlds to explore.
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
+- [Absent By Design](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys) ([ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech))
 - [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
