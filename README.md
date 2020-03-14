@@ -32,6 +32,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 These mods add new dungeons and worlds to explore.
 
 - [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures)
+- [Atum 2](https://www.curseforge.com/minecraft/mc-mods/atum)
 - [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
