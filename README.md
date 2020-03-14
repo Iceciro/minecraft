@@ -49,6 +49,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Earthworks](https://www.curseforge.com/minecraft/mc-mods/earthworks)
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold)
+- [Slide'em All](https://www.curseforge.com/minecraft/mc-mods/slideem-all)
 - [Useful Interior](https://www.curseforge.com/minecraft/mc-mods/useful-interior)
 
 ### Gameplay
