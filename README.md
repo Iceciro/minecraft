@@ -133,6 +133,7 @@ These mods add mundane skills or magical abilities to the game.
   - [Thaumic Periphery](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery)
   - [Thaumic Restoration](https://www.curseforge.com/minecraft/mc-mods/thaumic-restoration)
   - [Thaumic Wonders](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders)
+- [Wards](https://www.curseforge.com/minecraft/mc-mods/wards)
 
 ### Mobs
 These mods add new neutral or enemy mobs.
