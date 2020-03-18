@@ -129,6 +129,8 @@ These mods add mundane skills or magical abilities to the game.
   - [Natural Pledge](https://www.curseforge.com/minecraft/mc-mods/natural-pledge) ([LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib))
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
+- [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry)
+  - [Twilight Forest Spell Pack](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry-twilight-forest-spell-pack)
 - [Howling Moon](https://www.curseforge.com/minecraft/mc-mods/howling-moon)
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots)
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
