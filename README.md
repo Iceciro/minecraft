@@ -1,6 +1,8 @@
 # SoSly Minecraft Modpack
 **Version:** 3.0.0<br />
-**Seed:** 6917766840659095847
+**Seed:** 6917766840659095847<br />
+**Future Seed:** -4810579622484241634<br />
+**Starting Coordinates:** 1026 100 158
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -50,6 +52,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Chinese Workshop](https://www.curseforge.com/minecraft/mc-mods/chineseworkshop)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [Dark Roleplay Medieval](https://www.curseforge.com/minecraft/mc-mods/dark-roleplay-medieval) ([Dark Roleplay Core](https://www.curseforge.com/minecraft/mc-mods/dark-roleplay-core))
 - [Dawn of Time: Builder Edition](https://www.curseforge.com/minecraft/mc-mods/dawn-of-time) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 - [Dirt Deco](https://www.curseforge.com/minecraft/mc-mods/dirt-deco)
 - [Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
