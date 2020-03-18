@@ -122,6 +122,7 @@ These mods add mundane skills or magical abilities to the game.
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
 - [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
 - [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic) ([Guide API](https://www.curseforge.com/minecraft/mc-mods/guide-api))
+  - [Animus](https://www.curseforge.com/minecraft/mc-mods/animus)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
   - [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) ([HammerLib](https://www.curseforge.com/minecraft/mc-mods/hammer-lib))
   - [Natural Pledge](https://www.curseforge.com/minecraft/mc-mods/natural-pledge) ([LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib))
