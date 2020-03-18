@@ -36,6 +36,7 @@ These mods add new dungeons and worlds to explore.
   - [Aether Continuation](https://www.curseforge.com/minecraft/mc-mods/aether-addon)
   - [Aether: Lost Content](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content)
 - [Atum 2](https://www.curseforge.com/minecraft/mc-mods/atum)
+- [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod)
 - [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
