@@ -1,8 +1,7 @@
 # SoSly Minecraft Modpack
 **Version:** 3.0.0<br />
-**Seed:** 6917766840659095847<br />
-**Future Seed:** -4810579622484241634<br />
-**Starting Coordinates:** 1026 100 158
+**Seed:** 2245080777407693563<br />
+**Starting Coordinates:** 
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -93,6 +92,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) ([OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib))
 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+  - [Binnie's Mods](https://www.curseforge.com/minecraft/mc-mods/binnies-mods)
 - [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
