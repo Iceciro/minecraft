@@ -12,9 +12,6 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 | **Difficulty** | Normal | **Player Limit** | 72
 | **Mob Griefing** | Disabled | **Assigned Memory** | 6 GB
 
-#### Texture Packs
-We are using the John Smith texture pack.  It is a very beautiful medieval texture pack, although it does not have textures for every mod we play with, which sometimes causes some minor appearance issues.  In any case where this happens, the game will default back to the standard appearance for those items; however, we have tried to provide supplementary textures wherever we can.
-
 ## Installation Instructions
 1. Install [MultiMC](https://multimc.org/).
 2. Download the latest version of this modpack from the [releases](https://github.com/SoSly/minecraft/releases) section of this site.
@@ -211,6 +208,6 @@ These mods add simple functionality to the game.
 These mods provide an improvement or change to the visual appearance of the Minecraft game.  Mods marked with an asterisk(\*) are optional, and can be disabled or removed if you dislike them or if they give you trouble.
 
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)* ([Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin))
-- [Builder's Modded Shaders](https://www.dropbox.com/sh/bko0b0ctaovdwda/AACStbybl9uhCkP6TtFfFPIAa?dl=0)*
+- [Sonic Ether's Unbelievable Shaders](https://www.sonicether.com/)*
 - [Optifine](https://optifine.net/home)*
 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font)
