@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:64
 guiScale:0
 particles:0
 bobView:true
@@ -88,16 +88,6 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
-key_key.dss.activate.desc:45
-key_key.dss.next.desc:15
-key_key.dss.attack.desc:200
-key_key.dss.left.desc:203
-key_key.dss.right.desc:205
-key_key.dss.down.desc:208
-key_key.dss.block.desc:157
-key_key.dss.toggleat.desc:52
-key_key.dss.skills_gui.desc:25
-key_key.dss.togglehud.desc:47
 key_keybind.baublesinventory:48
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -116,14 +106,17 @@ key_keybind.hammercorerenderstack:77
 key_chineseworkshop.keybind.select:56
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_5:0
-key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_next:0
 key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_2:0
 key_cos.key.opencosarmorinventory:0
+key_key.dss.activate.desc:45
+key_key.dss.next.desc:15
+key_key.dss.skills_gui.desc:25
 key_key.ebwizardry.next_spell:49
 key_key.ebwizardry.previous_spell:48
 key_Toggle Magnetism Suppressor:49
