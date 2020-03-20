@@ -1,4 +1,4 @@
-#Fri Mar 13 04:44:45 PDT 2020
+#Thu Mar 19 11:16:58 PDT 2020
 shaderPack=SEUS-Renewed-v1.0.1.zip
 antialiasingLevel=2
 normalMapEnabled=true
