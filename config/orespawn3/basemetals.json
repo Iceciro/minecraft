@@ -40,7 +40,7 @@
 			"parameters": {
 				"size": 8,
 				"variation": 4,
-				"frequency": 2,
+				"frequency": 5,
 				"minHeight": 0,
 				"maxHeight": 128
 			},
@@ -55,7 +55,7 @@
 			"retrogen": false,
 			"enabled": true,
 			"feature": "default",
-			"replaces": "default",
+			"replaces": "minecraft:end_stone",
 			"dimensions": [
 				1
 			],
@@ -117,7 +117,7 @@
 			},
 			"blocks": [
 				{
-					"name": "basemetals:silver_ore",
+					"name": "mysticalworld:silver_ore",
 					"chance": 100
 				}
 			]
@@ -140,7 +140,8 @@
 			},
 			"blocks": [
 				{
-					"name": "basemetals:tin_ore",
+					"name": "forestry:resources",
+					"metaData": 2,
 					"chance": 100
 				}
 			]
